@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001846916687",
+    "project_id": "grateful-6d9cb",
+    "storage_bucket": "grateful-6d9cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001846916687:android:6ae6be0fb6d0572c97cc3a",
+        "android_client_info": {
+          "package_name": "com.peacon.grateful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001846916687-2clsv5r5kdpbln336tamqnba6n13edcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8CnHEs2CsJOK6O9XyQ8JjqvYQqKfpfRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001846916687-2clsv5r5kdpbln336tamqnba6n13edcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
